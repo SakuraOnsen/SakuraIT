@@ -1,0 +1,18 @@
+{
+  "name": "sakura-it",
+  "version": "1.0.0",
+  "description": "Personal Bot for Invites tracking.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Junior#0001(Sakura Onsen)",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "ms": "^2.1.2",
+    "path": "^0.12.7"
+  }
+}
