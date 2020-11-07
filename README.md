@@ -5,5 +5,5 @@ A public code bot that the only purpose is to track the uses of the invite link 
 
 #Libraries
 -Discord JS (to get the Discord API)
--path/fs (To handle the commands and events)
+-path/fs (To handle the commands and events) (Handler commands/events are not in public)
  -dotenv (To log our private tokens)
