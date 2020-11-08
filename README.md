@@ -1,9 +1,14 @@
 # SakuraIT
-Sakura Onsen Discord Inviter Links bot
+Sakura IT is a discord bot from Sakura Onsen to track invite links without loggin any data from the server or the members.
 
-A public code bot that the only purpose is to track the uses of the invite link without logging anything from the server or the members.
+## Libraries
 
-#Libraries
--Discord JS (to get the Discord API)
--path/fs (To handle the commands and events) (Handler commands/events are not in public)
- -dotenv (To log our private tokens)
+### Discord JS
+To handle the Discord API.
+
+### path/fs 
+To handle the events and command. (Handler is not in public)
+
+### dotenv
+To keep tokens and keys private.
+##### [Author: Junior#0001](https://discord.com/users/379267610564362243) 
