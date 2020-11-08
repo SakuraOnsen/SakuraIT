@@ -1,5 +1,5 @@
 # SakuraIT
-Sakura IT is a discord bot from Sakura Onsen to track invite links without loggin any data from the server or the members.
+Sakura IT is a discord bot from Sakura Onsen to track invite links without log any data from the server or the members.
 
 ## Libraries
 
